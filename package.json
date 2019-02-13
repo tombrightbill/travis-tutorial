@@ -1,0 +1,23 @@
+{
+  "name": "travis-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jshint server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tombrightbill/travis-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tombrightbill/travis-tutorial/issues"
+  },
+  "homepage": "https://github.com/tombrightbill/travis-tutorial#readme",
+  "dependencies": {
+    "jshint": "^2.10.1"
+  }
+}
